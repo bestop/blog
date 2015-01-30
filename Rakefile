@@ -16,7 +16,7 @@ end
 
 desc 'Generate css'
 task :scss do
-  `scss media/css/style.scss media/css/style.css`
+  `scss blog/media/css/style.scss media/css/style.css`
 end
 
 desc 'Start server'
