@@ -6,7 +6,7 @@ markdown: rdiscount
 
 author: "wayne"
 atom-baseurl: "http://b.pop925.net"
-disqus: "netfaces"
+disqus: "enre"
 
 navigations:
   - title: Archive
