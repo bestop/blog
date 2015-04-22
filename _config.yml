@@ -5,7 +5,7 @@ name: "NetCafe"
 markdown: rdiscount
 
 author: "wayne"
-atom-baseurl: "http://blog.pop925.net"
+atom-baseurl: "http://b.pop925.net"
 disqus: "netfaces"
 
 navigations:
