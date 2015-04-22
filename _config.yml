@@ -11,17 +11,17 @@ disqus: "netfaces"
 navigations:
   - title: Archive
     class: fa fa-list-ul
-    href: /blog/archive.html
+    href: /archive.html
   - title: Tags
     class: fa fa-tags
-    href: /blog/tags.html
+    href: /tags.html
   - title: About
     class: fa fa-user
-    href: /blog/about.html
+    href: /about.html
   - title: Gallery
     class: fa fa-film
     href: http://foto.com
   - title: Subscribe
     class: fa fa-rss
-    href: /blog/atom.xml
+    href: /atom.xml
 
