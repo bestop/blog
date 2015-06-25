@@ -2,6 +2,7 @@
 layout: post
 category: "信息||Info"
 title:  "时间记录工具-RescueTime"
+guid: urn:uuid:52844cd3-de95-411e-83f1-4e4051ce0c7d
 tags: [信息||Info] 
 ---
 时间都去哪儿了，还没好好感受工作就下班了。如果发呆收邮件浏览网站消耗了你一天的大部分时间，亦或忙了一整天工作还远远没有完成，你要考虑一下如何才能提高工作效率了。    
