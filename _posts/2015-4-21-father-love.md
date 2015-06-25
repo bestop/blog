@@ -2,6 +2,7 @@
 layout: post
 category: "生活||Life"
 title:  "从跑男到世界青年说"
+guid: urn:uuid:050de99c-7597-49b3-9281-9ca84fccbb5b
 tags: [生活||Life] 
 ---
 说起地方电视台，湖南卫视可谓一枝独秀，近年来浙江、江苏卫视也大有追赶之势。继浙江卫视跑男新一季开播之时，一档新的脱口秀节目《[世界青年说](http://player.youku.com/embed/XOTM0Njk2Njc2)》也在江苏卫视拉开帷幕。
