@@ -7,6 +7,6 @@ tags:
   - life
 ---
 
-![](/media/files/2016/welhome.jpg width=420px)
+<img alt="" border="0" src="/media/files/2016/welhome.jpg" width=420px>
 
 25天的等待，欢迎回家。
