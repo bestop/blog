@@ -1,8 +1,8 @@
-markdown: rdiscount
-highlighter: pygments
+markdown: kramdown
+highlighter: rouge
 permalink: /:year/:month/:day/:title.html
 name: "ChesTime"
-markdown: rdiscount
+markdown:kramdown
 
 author: "ChesTime"
 atom-baseurl: "http://b.pop925.net"
