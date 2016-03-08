@@ -7,10 +7,6 @@ a
 
 > ME
 
-who involved in 
-
-> [github](https://github.com/)
-
 mail 
 
 > **
