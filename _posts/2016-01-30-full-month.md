@@ -5,7 +5,7 @@ guid: urn:uuid:52844cd3-de95-411e-83f1-4e4051re0a7d
 tags: life
 ---
 
-<img alt="" border="0" src="/media/files/2016/month.jpg" width=420px>
+![Full month birth](/media/files/2016/month.jpg "Full month birth")
 
 Time Well Spent   
 See tiny fingers and tiny toes,    
