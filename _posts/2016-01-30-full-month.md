@@ -7,7 +7,7 @@ tags:
    photo
 ---
 
-![Full month birth](/media/files/2016/month.jpg =420x420)
+![Full month birth](/media/files/2016/month.jpg)
 
 Time Well Spent   
 See tiny fingers and tiny toes,    
