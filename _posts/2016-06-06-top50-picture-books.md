@@ -6,9 +6,8 @@ tags:
    life
 ---
 
-![Hello M](http://img.weixinyidu.com/150602/d9c9fc87.jpg)
+![Top50 children picture books](http://img.weixinyidu.com/150602/d9c9fc87.jpg)
 
- /media/files/2016/HelloM.jpg
 绘本，能让孩子爱上阅读！
 
 绘本以儿童思维创作，图画是绘本的命脉，甚至有些绘本，一个字也没有，只用绘画来讲故事。一本优秀的绘本，可以让不认字的孩子，"读"出其中的意思。
@@ -119,7 +118,7 @@ tags:
 
 《我》主题：自我发展
 
-链接: http://pan.baidu.com/s/1boZmKub 
+链接: http://pan.baidu.com/s/1boZmKub    
 密码请留下邮箱索取
     
 特别声明：分享资源版权属于原出版机构或影像公司，本资源为电子载体，传播分享仅限于家庭使用与交流心得、参考和辅助购买决策，不得以任何理由在商业行为中使用，若喜欢此资源，建议购买实体产品。
