@@ -48,12 +48,15 @@ layout: default
   <section class="comment">
    <div id="ds-thread"></div>
  -  <script type="text/javascript">
- -      var duoshuoQuery = {short_name:"hijosh"};
- -
- -      function leave_comment() {
- -          var ds = document.createElement('script'); ds.type = 'text/javascript'; ds.async = true;
- -          ds.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') + '//static.duoshuo.com/embed.js';
- -          (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(ds);
+ var duoshuoQuery = {short_name:"hijosh"};
+	(function() {
+		var ds = document.createElement('script');
+		ds.type = 'text/javascript';ds.async = true;
+		ds.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') + '//static.duoshuo.com/embed.js';
+		ds.charset = 'UTF-8';
+		(document.getElementsByTagName('head')[0] 
+		 || document.getElementsByTagName('body')[0]).appendChild(ds);
+	})();
  -          $("#leave_comment_link").css("display", "none");
  -          $("#collapse_comment_link").css("display", "");
  -      };
