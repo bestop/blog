@@ -45,10 +45,12 @@ layout: default
   </div>
 
   <!-- BEGIN comment -->
-  <section class="comment">
-   <div id="ds-thread"></div>
- -  <script type="text/javascript">
- var duoshuoQuery = {short_name:"hijosh"};
+ <!-- 多说评论框 start -->
+	<div class="ds-thread"></div>
+<!-- 多说评论框 end -->
+<!-- 多说公共JS代码 start (一个网页只需插入一次) -->
+<script type="text/javascript">
+var duoshuoQuery = {short_name:"hijosh"};
 	(function() {
 		var ds = document.createElement('script');
 		ds.type = 'text/javascript';ds.async = true;
@@ -57,21 +59,8 @@ layout: default
 		(document.getElementsByTagName('head')[0] 
 		 || document.getElementsByTagName('body')[0]).appendChild(ds);
 	})();
- -          $("#leave_comment_link").css("display", "none");
- -          $("#collapse_comment_link").css("display", "");
- -      };
- -      function collapse_comment() {
- -          // document.getElementById("ds-thread").innerHTML = '';
- -          $("#ds-thread").slideUp(400, function() {
- -              $("#ds-thread").empty();
- -              $("#leave_comment_link").css("display", "");
- -              $("#collapse_comment_link").css("display", "none");
- -              $("#ds-thread").css("display", "");
- -          });
- -      };
- -  </script>
-  <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-  </section>
+	</script>
+<!-- 多说公共JS代码 end -->
   <!-- END comment -->
   {% endif %}
 </article>
