@@ -4,7 +4,7 @@ permalink: /:year/:month/:day/:title.html
 name: "JoshTime"
 
 author: "JoshTime"
-atom-baseurl: "http://www.pop925.net"
+atom-baseurl: "http://hijoe.tk"
 disqus: "hijosh"
 
 navigations:
