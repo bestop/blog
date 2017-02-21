@@ -6,6 +6,6 @@ tags:   
     life   
     photo
 ---
-![Baby tooth](/media/files/2017/tooth.jpg) 
+![Baby tooth](/media/files/2017/tooth.JPG) 
 
 ByeBye S, Hello M!   
