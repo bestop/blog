@@ -6,7 +6,7 @@ tags:
   life 
   photo
 ---
-![Baby tooth](/media/files/2017/fever.JPG) 
+<img src="/media/files/2017/fever.JPG"  alt="Baby in fever" width="500"/>
 <p style="text-indent:2em;">
 	<br />
 </p>
@@ -146,9 +146,6 @@ tags:
 	<br />
 </div>
 <div style="text-align:justify;font-size:14px;">
-	<br />
-</div>
-<div style="text-align:justify;font-size:14px;">
 	<span style="font-size:15px;color:#3E3E3E;">①年龄：该药是世界卫生组织(WHO) 推荐</span><span style="font-size:15px;color:#3E3E3E;font-weight:bold;">3个月以上</span><span style="font-size:15px;color:#3E3E3E;">婴儿和儿童高热时首选退热药。</span>
 </div>
 <div style="text-align:justify;font-size:14px;">
@@ -201,10 +198,7 @@ tags:
 <p style="text-align:justify;font-size:14px;">
 	<span style="font-size:15px;color:#3E3E3E;">③代表药如美林、托恩等。</span>
 </p>
-<p style="text-align:justify;font-size:14px;">
-	<span style="font-size:15px;color:#3E3E3E;"><br />
-</span>
-</p>
+
 <p style="text-align:justify;font-size:14px;">
 	<span style="font-size:15px;color:#3E3E3E;">泰诺林和美林（或退热栓塞）每天不可使用超过4次，如持续高烧降不下来，可交替使用，但间隔不可小于4小时。</span>
 </p>
@@ -350,9 +344,4 @@ tags:
 <div style="text-align:justify;font-size:14px;">
 	<span style="font-size:15px;color:#3E3E3E;">3个月以下宝宝的汗腺发育不完全，要多喝水，千万不能捂，否则体温会越捂越高。</span>
 </div>
-<p>
-	<br />
-</p>
-<p style="text-indent:2em;">
-	<br />
-</p>
+
