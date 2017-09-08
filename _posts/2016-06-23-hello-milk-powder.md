@@ -6,8 +6,7 @@ tags:
    life
    photo
 ---
-
-![Hello M](/media/files/2016/milk.JPG)
+<img src="/media/files/2016/milk.JPG"  alt="HELLO Milk" width="480"/>
 
 公元二零一六年六月二十三日，日值岁破，大事不宜，适逢宝宝断奶，一天颇为波折。    
 
