@@ -6,8 +6,7 @@ tags:
    life
    photo
 ---
-
-![Full month birth](/media/files/2016/month.jpg)
+<img src="/media/files/2016/month.jpg"  alt="Full month birth" width="480"/>
 
 Time Well Spent   
 See tiny fingers and tiny toes,    
