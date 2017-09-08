@@ -6,7 +6,7 @@ tags:
   life 
   photo
 ---
-<img src="/media/files/2017/fever.JPG"  alt="Baby in fever" width="500"/>
+<img src="/media/files/2017/fever.JPG"  alt="Baby in fever" width="480"/>
 <p style="text-indent:2em;">
 	<br />
 </p>
