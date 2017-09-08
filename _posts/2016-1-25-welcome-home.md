@@ -6,8 +6,7 @@ tags:
    - life
    - photo
 ---
-
-![Welcome home](/media/files/2016/family.JPG "Welcome home")
+<img src="/media/files/2016/family.JPG"  alt="Welcome home" width="480"/>
 
 25天的漫长等待，欢迎回家。   
    
