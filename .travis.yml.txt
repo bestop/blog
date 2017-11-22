@@ -1,0 +1,22 @@
+language: ruby
+
+rvm:
+- 2.2.5
+
+branches:
+  only:
+  - gh-pages
+
+sudo: false
+
+before_install:
+- openssl aes-256-cbc -K $encrypted__key -iv $encrypted__iv -in gae.json.enc -out gae.json -d
+
+script:
+- bundle exec jekyll build
+
+deploy:
+  provider: gae
+  skip_cleanup: true
+  keyfile: My Project-5eff9d4a8f99.json
+  project: api-project-424947236415
