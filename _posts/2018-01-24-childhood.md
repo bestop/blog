@@ -1,5 +1,5 @@
 ---
-title: childhood
+title: Childhood
 layout: post
 guid: urn:uuid:180124cd3-de95-411e-83f1-4e4051re0a7d
 tags:
