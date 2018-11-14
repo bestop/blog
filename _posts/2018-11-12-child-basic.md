@@ -6,7 +6,7 @@ tags:
   life 
   photo
 ---
-<img src="https://img3.doubanio.com/view/subject/l/public/s29201166.jpg"  alt="Child rearing basic" width="480"/>
+<img src="/media/files/2018/yrjb.jpg"  alt="Child rearing basic" width="480"/>
 	<br />
 <p>
 	《育儿基本》
