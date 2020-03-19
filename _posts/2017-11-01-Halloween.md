@@ -11,9 +11,7 @@ tags:
 <p>
 	TRICK OR TREAT
 </p>
-<p>
 	<br />
-</p>
 <p>
 	Trick or treat. 不给糖就捣蛋<br />
 Smell my feet. 闻闻我的脚<br />
