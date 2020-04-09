@@ -2,9 +2,8 @@
 title: 不对孩子发脾气!
 layout: post
 guid: urn:uuid:20200222cd3-de95-411e-83f1-4e4051re0a7d
-tags:
-  life 
- ---
+tags: life 
+---
 <p>
 	<p class="MsoNormal" style="margin-left:12.0pt;background:white;">
 		<b>为什么对孩子容易发怒？</b><br />
